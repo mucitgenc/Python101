@@ -1,4 +1,4 @@
-Python Öğren Belgelerine Hoşgeldiniz!
+Mucit Genç Python Öğren Belgelerine Hoşgeldiniz!
 =====================================
 
 `python-ogren` projesi https://www.w3schools.com/python/ adresindeki anlatımların çevirilerini içerir.
