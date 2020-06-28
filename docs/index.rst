@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Python Öğren Belgelerine Hoşgeldiniz!
+Mucit Genç Python Öğren Belgelerine Hoşgeldiniz!
 =====================================
 
 `python-ogren` projesi https://www.w3schools.com/python/ adresindeki anlatımların çevirilerini içerir.
