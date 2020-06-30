@@ -9,7 +9,7 @@ Mucit Genç Python Öğren Belgelerine Hoşgeldiniz!
 `python-ogren` projesi https://www.w3schools.com/python/ adresindeki anlatımların çevirilerini içerir.
 Python hakkında ek bir Türkçe kaynak olmayı hedefler.
 
-Belgelendirmeye erişmek için: http://python-ogren.readthedocs.io
+Belgelendirmeye erişmek için: https://mucitgenc-python101.readthedocs.io
 
 Dikkatli olun
 -------------
@@ -25,11 +25,7 @@ Katkıda bulunun
 - Kaynak Kod: https://github.com/ozgurturkiye/python-ogren
 - Belgenin özgün kaynağı: https://www.w3schools.com/python/
 
-Destek
-------
 
-Eğer katkıda bulunmak isterseniz lütfen bize bildirin.
-İletişim için: ozgurturkiye@gmail.com veya hurolyalcin@gmail.com
 
 
 .. toctree::
